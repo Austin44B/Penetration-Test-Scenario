@@ -10,10 +10,6 @@
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/6e9ff7b5-c014-4a15-8be4-25bbcd1115af)
 
-
-![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/f75c6651-24cc-4791-8469-4b7853b58119)
-
-
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/bd9a65a4-2924-45ac-8db9-a43e498ec881)
 
 
