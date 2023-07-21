@@ -14,7 +14,7 @@ Dirb = is a web content scanner and directory brute-forcing tool, designed to di
 
 tee = splits output stream to display it and save it to a file at the same time
 
-![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/dcf6e9b8-3173-4f8d-a28c-f495faeed40c)
+![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/da95309b-d73e-4950-8966-2d588112a354)
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/731925de-e648-466b-9c2d-fd3869abcc33)
 
