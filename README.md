@@ -1,5 +1,9 @@
 # Catching a Reverse Shell :
 
+Nmap is a open-source network scanning and security auditing tool allowing the ability to discover hosts, services, and open ports on a network, providing valuable information for network mapping and  vulnerability assessment. 
+
+The "-F" Switch is used to perform a *fast scan*
+
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/8370239a-737b-4956-9e23-ed940e5cdb7a)
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/b63c4bfa-2daa-45d3-b434-0be4e4572b86)
