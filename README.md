@@ -12,6 +12,8 @@ The "-F" Switch is used to perform a *fast scan*
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/6e9ff7b5-c014-4a15-8be4-25bbcd1115af)
 
+Cross refrence vulnerabilties using [Xploit Database](https://www.exploit-db.com/)
+
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/85909d4c-f5f2-4e85-83d1-a6eeefc48017)
 
 Dirb = is a web content scanner and directory brute-forcing tool, designed to discover hidden directories and files on a web server by performing dictionary-based attacks.
