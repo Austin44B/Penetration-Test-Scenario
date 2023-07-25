@@ -77,4 +77,4 @@ Now let's resolve "unknown terminal type", so that our attack box parimeters mat
 <img width="962" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/f7a5ac6d-a031-46d6-89ab-2aff9bb04001">
 
 
-## and Escalate privilegs :
+### and Escalate privilegs :
