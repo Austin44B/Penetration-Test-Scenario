@@ -74,6 +74,9 @@ Now lets perform a "PTY shell upgrade" by using a simple python script that call
 
 Now let's resolve "unknown terminal type", so that our attack box parimeters match our target box. Here is a guide for refrence on ["Resolving unknown terminal type"](https://techtitbits.com/2010/10/resolving-unknown-unknown-terminal-type-error/)
 
+![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/b7658f95-0fb6-47dc-abac-1d482a8a3c71)
+
+
 <img width="962" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/f7a5ac6d-a031-46d6-89ab-2aff9bb04001">
 
 
