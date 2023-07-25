@@ -62,4 +62,19 @@ Nc = Netcat, Used for port scanning, transferring files, and setting up network 
 #
 #
 
-# Now Let's Upgrade our shell and Escalate privilegs :
+# Now Let's Upgrade/harden our shell :
+
+Validate what version of python is running on the machine.
+
+<img width="182" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/73777d2f-4f33-4cb8-8bf7-3d0207c019e6">
+
+Now lets perform a "PTY shell upgrade" by using a simple python script that calls a pty module to spawn a new interactive shell with more capabilities than the default shell.
+
+<img width="645" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/6409065a-5045-4fc8-9460-c37e6f0f0554">
+
+Now let's resolve "unknown terminal type" by following this [guide](https://techtitbits.com/2010/10/resolving-unknown-unknown-terminal-type-error/) so that our attack box parimeters match our target box
+
+<img width="962" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/f7a5ac6d-a031-46d6-89ab-2aff9bb04001">
+
+
+## and Escalate privilegs :
