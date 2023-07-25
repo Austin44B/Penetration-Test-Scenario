@@ -1,10 +1,18 @@
 # Catching a Reverse Shell :
 
+![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/c6cbce54-401a-4281-b376-cc595a29974b)
+
 Nmap is a open-source network scanning and security auditing tool allowing the ability to discover hosts, services, and open ports on a network, providing valuable information for network mapping and  vulnerability assessment. 
 
 The "-F" Switch is used to perform a *fast scan*
 
-![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/8370239a-737b-4956-9e23-ed940e5cdb7a)
+-sV = Nmap switch that will try to determine the versions of services running on the target ports. This can be helpful in identifying specific software and their versions, which can be crucial for understanding potential vulnerabilities and their associated risks.
+
+-oN = Nmap switch that is used to specify the normal output file to which Nmap will write the scan results. With this switch, you can save the scan results to a text file in a human-readable format.
+
+![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/6309728d-944c-4161-8206-b3920b6ebfc0)
+
+<img width="444" alt="image" src="https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/45fb5318-e709-409e-80c2-999106bd8eff">
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/b63c4bfa-2daa-45d3-b434-0be4e4572b86)
 
@@ -13,6 +21,8 @@ The "-F" Switch is used to perform a *fast scan*
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/6e9ff7b5-c014-4a15-8be4-25bbcd1115af)
 
 Cross refrence vulnerabilties using [Xploit Database](https://www.exploit-db.com/)
+
+https://httpd.apache.org/security/vulnerabilities_24.html
 
 ![image](https://github.com/Austin44B/Penetration-Test-Scenario/assets/134319619/85909d4c-f5f2-4e85-83d1-a6eeefc48017)
 
